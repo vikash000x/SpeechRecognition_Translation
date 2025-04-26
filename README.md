@@ -22,8 +22,5 @@ heyyy everyone I am vikash and I am presenting to you my awesome speachRecogniti
   
   -Tailwind CSS (Styling)
 
-## Installation & Setup
-
-  1️⃣ Clone the Repository
 
 
