@@ -1,6 +1,6 @@
 ## Language Translator App
 
-This is a Next.js-based language translator app that uses the Gemini API for text translation and the Web Speech API for speech recognition and synthesis.
+heyyy everyone I am vikash and I am presenting to you my awesome speachRecognition and Translation app.  This is a Next.js-based language translator app that uses the Gemini API for text translation and the Web Speech API for speech recognition and synthesis.
 
 ## Features
 
@@ -26,59 +26,4 @@ This is a Next.js-based language translator app that uses the Gemini API for tex
 
   1️⃣ Clone the Repository
 
-  ```
-  git clone https://github.com/yourusername/translator-app.git
-  cd translator-app
-  ```
-  
-  2️⃣ Install Dependencies
-
-  ```
-  npm install
-  ```
-  
-  3️⃣ Set Up Environment Variables
-  
-  Create a .env.local file in the root directory and add your Gemini API key:
-
-  ```
-      NEXT_PUBLIC_API_KEY=your-api-key-here
-  ```
-  
-  4️⃣ Run the App
-
-  ```
-  npm run dev
-  ```
-
-**The app will be available at http://localhost:3000**
-
-## Usage
-
--Click on the "🎤 Speak" button and start speaking.
-
--The recognized text will appear in the text box.
-
--Select the target language from the dropdown.
-
--Click "🔁 Translate" to translate the text.
-
--Click "🔊 Listen" to hear the translation.
-
-
-## Deployment
-
-To deploy on Vercel, run:
-  ```
-   npm run build
-  ```
-
-
-## Future Improvements
-
-    Support for more languages
-    
-    Enhanced UI/UX
-    
-    Offline translation support
 
